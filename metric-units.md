@@ -45,6 +45,6 @@ There is one other unusual unit that you'll see from time to time in CHEM 110, t
 
 [ciscode|rev=1|tool=elmsmedia|item=3210|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
-**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269545 "Metric Units Part A") to try out the Part A quiz for this section.**
+#### **[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269545 "Metric Units Part A") to try out the Part A quiz for this section.**
 
-**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269538 "Metric Units Part B")!**
+#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269538 "Metric Units Part B")!**
