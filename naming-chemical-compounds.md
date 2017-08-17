@@ -174,6 +174,6 @@ Compounds containing two elements are named by listing both elements, usually st
 
 
 
-**[Click here](https://psu.instructure.com/courses/1866869/assignments/9446801 "Nomenclature Part A") to try out the Part A quiz for this section.**
+**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269543 "Nomenclature Part A") to try out the Part A quiz for this section.**
 
-**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446798 "Nomenclature Part B")!**
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269539 "Nomenclature Part B")!**
