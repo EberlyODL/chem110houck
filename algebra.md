@@ -86,7 +86,8 @@ If you're asked to express this as a decimal number, it would equal 0.00000001 (
 
 Whenever you have a single equation that contains two or variables, it's impossible to solve for the value of a single variable. To do that, you must have a second equation that contains additional information about one or more of the variables found in the original equation. We call this collection of equations a system of equations. One way of solving systems of equations is by using a substitution strategy in which you solve one equation for a particular variable and substitute your result in place of that same variable in the second equation.
 
-**_Example 1:_ **Solve the following system of equations for x and y.
+**_Example 1:_**
+Solve the following system of equations for x and y.
 
 x - 2 = y + 2
 
