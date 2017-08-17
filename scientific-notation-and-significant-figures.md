@@ -58,8 +58,7 @@ Significant figures, otherwise known as sig figs, are the meaningful digits in a
 
 [ciscode|rev=1|tool=elmsmedia|item=3206|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-
-
+Check out the video for all the rules on how to report an answer from a calculation with the appropriate number of significant figures!
 
 **[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269544 "Sig figs Part A") to try out the Part A quiz for this section.**
 
