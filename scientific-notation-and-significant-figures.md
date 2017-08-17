@@ -4,7 +4,7 @@
 
 Scientific notation is a way of expressing _really_ big or _really_ small numbers in a more convenient manner.  
 
-Scientific notation takes the form of N x 10n.  N is a number between 1 and 10 and n is an integer value.  The exponent, n, will be negative if the number we are expressing is less than 1 and positive if it is greater than 1.
+Scientific notation takes the form of N x 10$$^n$$.  N is a number between 1 and 10 and $$n$$ is an integer value.  The exponent, $$n$$, will be negative if the number we are expressing is less than 1 and positive if it is greater than 1.
 
 For example, one might write the number $$0.00000516$$ as $$5.16\times10^{-6}$$. 
 
