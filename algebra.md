@@ -67,7 +67,7 @@ Since we're multiplying two exponent numbers with the same base, the answer will
 $$10^2\cdot10^{-6}\:=10^{-4}$$
 
 
-If you're asked to express this as a decimal, keep in mind that the negative exponent is equivalent to saying 1/10<sup>4</sup>, or 1/1000, or simply 0.0001.
+If you're asked to express this as a decimal, keep in mind that the negative exponent is equivalent to saying 1/10<sup>4</sup>, or 1/10,000, or simply 0.0001.
 
 **_Example 2: _**
 
@@ -79,7 +79,7 @@ Since we're dividing two exponent numbers with the same base, the answer will ha
 $$10^2\div10^{-6}\:=10^{8}$$
 
 
-If you're asked to express this as a decimal number, it would equal 0.00000001 (with 7 zeroes).
+If you're asked to express this as a decimal number, it would equal 100,000,000
 
 ## Solving Systems of Equations  
 
