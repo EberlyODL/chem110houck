@@ -9,6 +9,6 @@
 * [Week 1](week-1.md)
   * [PLA Monday](week-1/pla-monday.md)
   * [PLA Wednesday](week-1/pla-wednesday.md)
-  * PLA Friday
+  * [PLA Friday](week-1/pla-friday.md)
 * [End of book](end-of-book.md)
 
