@@ -24,7 +24,6 @@ Before we get too far in our journey, we need to understand energy. In this less
 
 [ciscode|rev=1|tool=elmsmedia|item=2773|entity_type=node|render=display_mode|display_mode=h5p]
 
-[ciscode|rev=1|tool=elmsmedia|item=2774|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 ## State Functions
@@ -34,9 +33,6 @@ A state function is a function that depends only on the current state.  It does 
 
 [ciscode|rev=1|tool=elmsmedia|item=3239|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
-### Try it!
-
-[ciscode|rev=1|tool=elmsmedia|item=2775|entity_type=node|render=display_mode|display_mode=h5p]
 
 
-### Click here to return to Canvas to answer a few questions!
+### [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3305126)
