@@ -21,6 +21,9 @@ Matter, anything that has mass and takes up space, is made of atoms. This lesson
 
 [ciscode|rev=1|tool=elmsmedia|item=3235|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
+[ciscode|rev=1|tool=elmsmedia|item=2653|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=2651|entity_type=node|render=display_mode|display_mode=h5p]
 
 ## Isotopes and Atomic Mass
 
