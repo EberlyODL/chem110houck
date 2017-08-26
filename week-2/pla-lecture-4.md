@@ -17,8 +17,9 @@ In a similar way, if you were to place your arm over a pot of boiling water, the
 * Define electrostatic potential energy and apply Coulomb's Law to rank the overall electrostatic energy, and the strength of attraction for different interacting charges.
 
 
-So far, we have been examining the transfer of kinetic energy in the forms of heat and work.  Now, let's look at potential energy. Electrostatic potential energy is the potential (stored) energy associated with the position of charged particles. When two particles separated by an infinite distance, Eel = 0.  We are likely familiar with the idea that opposite charges attract. In this scenario, Eel < 0 (negative) because the system (the charges) will do work to bring them closer together.  (Think about having to put energy into the system to pull those particles apart to get back up to E = 0.)  For like charges, Eel > 0.  The surroundings must do work on the system to bring those particles closer together.
-According to Coulomb's law, Eel depends on the magnitude of charge and the distance separating the particles. 
+So far, we have been examining the transfer of kinetic energy in the forms of heat and work.  Now, let's look at potential energy. Electrostatic potential energy is the potential (stored) energy associated with the position of charged particles. When two particles separated by an infinite distance, $$E_{el}=0$$ because there is no interaction between them.  We are likely familiar with the idea that opposite charges attract. In this scenario, $$E_{el} < 0$$, (negative) because the system (the charges) will do work to bring them closer together.    
+For like charges, $$E_{el}$$ > 0.  The surroundings must do work _on_ the system to bring those particles closer together.
+According to Coulomb's law, $$E_{el}$$ depends on the magnitude of charge and the distance separating the particles. 
 
 > $$E_{el}= \frac{Q_1Q_2}d$$
 
@@ -39,7 +40,7 @@ In this mathematical representation, you can easily see how changes in charge an
 * Recognize the ranges of wavelength of different regions in the electromagnetic spectrum and rank the relative order of wavelength (frequency, photon energy) of different regions in electromagnetic spectrum.
 * Rank the relative order of colors and range of wavelength in the visible spectrum.
 
-Finally, we 
+The last form of energy we will explore in this unit is light energy.   
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3266|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
