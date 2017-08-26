@@ -36,4 +36,4 @@ The number of isotopes and their abundance for a given element varies. Like the 
 
 In class, we will do an example problem on solving isotope abundance and move into ions and molecules as well as the mole.
 
-### [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3269546)
+## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3269546)

@@ -1,16 +1,16 @@
-# Pre-lecture Assignment
+# Pre-lecture Assignment 4
 
 <div style="float:right;margin:auto"><ebook-button title="Intro to Energy" link=https://genchem.science.psu.edu/01-5-enthalpy></ebook-button></div>
 
-# Enthalpy
+## Enthalpy
 
-Enthalpy ($$\Delta$$H) is equal to heat (q) at constant pressure.  Under conditions where pressure is constant and our system does not undergo changes in volume, enthalpy is equal to internal energy.  Enthalpy is easily measured experimentally (we will study calorimetry at the end of the term) and is a common quantity you will see.
+In class, we looked at energy transfer in the form of heat and work.  Enthalpy ($$\Delta$$H) is equal to heat (q) at constant pressure.  Under conditions where pressure is constant and our system does not undergo changes in volume, enthalpy is equal to internal energy.  Enthalpy is easily measured experimentally (we will study calorimetry at the end of the term) and is a common quantity you will see.
 When heat _exits_ a system (loses heat), we define that as _exothermic_.  When heat _enters_ a system (gains heat), we define the process as _endothermic_. Let's look at an example you are familiar with.  When your body sweats, the sweat will evaporate from your skin.  Thinking of the sweat as the system, you have to put energy in for evaporation to take place.  As a result, heat was transferred from the surroundings (your body) and you feel cooler!
 In a similar way, if you were to place your arm over a pot of boiling water, the water vapor (gas) would condense on your skin.  This process would cause heat to exit the system (water molecules) and release heat to the surroundings (you!) likely causing a burn (ouch!). 
 
 [ciscode|rev=1|tool=elmsmedia|item=3236|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
-# Electrostatic Potential Energy
+## Electrostatic Potential Energy
 
 **Learning Objectives:** _After this lesson, you should be able to…_
 
@@ -31,7 +31,7 @@ In this mathematical representation, you can easily see how changes in charge an
 <div style="float:right;margin:auto"><ebook-button title="Atomic Structure" link="https://genchem.science.psu.edu/01-6-light-energy"></ebook-button></div>
 
 
-# Characteristics of Light
+## Characteristics of Light
 
 **Learning Objectives:** _After this lesson, you should be able to…_
 
@@ -39,9 +39,11 @@ In this mathematical representation, you can easily see how changes in charge an
 * Recognize the ranges of wavelength of different regions in the electromagnetic spectrum and rank the relative order of wavelength (frequency, photon energy) of different regions in electromagnetic spectrum.
 * Rank the relative order of colors and range of wavelength in the visible spectrum.
 
-
+Finally, we 
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3266|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
+
+## Click here to return to Canvas to answer a few questions!
 
