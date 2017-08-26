@@ -10,5 +10,9 @@
   * [PLA Monday](week-1/pla-monday.md)
   * [PLA Wednesday](week-1/pla-wednesday.md)
   * [PLA Friday](week-1/pla-friday.md)
+* [Week 2](week-2.md)
+  * [PLA Lecture 4](week-2/pla-lecture-4.md)
+  * PLA Lecture 5
+  * PLA Lecture 6
 * [End of book](end-of-book.md)
 
