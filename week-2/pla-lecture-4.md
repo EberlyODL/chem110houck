@@ -29,7 +29,7 @@ In this mathematical representation, you can easily see how changes in charge an
 
 
 
-<div style="float:right;margin:auto"><ebook-button title="Atomic Structure" link="https://genchem.science.psu.edu/01-6-light-energy"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Light Energy" link="https://genchem.science.psu.edu/01-6-light-energy"></ebook-button></div>
 
 
 ## Characteristics of Light
