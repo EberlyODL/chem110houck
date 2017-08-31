@@ -12,6 +12,7 @@
   * [PLA Lecture 3](week-1/pla-friday.md)
 * [Week 2](week-2.md)
   * [PLA Lecture 4](week-2/pla-lecture-4.md)
+  * [Light Energy Try it!](week-2/light-energy-try-it.md)
   * [PLA Lecture 5](week-2/pla-lecture-5.md)
   * [Bohr Model Try it!](week-2/bohr-model-try-it.md)
   * [PLA Lecture 6](week-2/pla-lecture-6.md)
