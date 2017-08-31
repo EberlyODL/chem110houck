@@ -9,6 +9,7 @@
 * [Week 1](week-1.md)
   * [PLA Lecture 1](week-1/pla-monday.md)
   * [PLA Lecture 2](week-1/pla-wednesday.md)
+  * [Isotopes and Atomic Mass Try it!](week-1/isotopes-and-atomic-mass-try-it.md)
   * [PLA Lecture 3](week-1/pla-friday.md)
 * [Week 2](week-2.md)
   * [PLA Lecture 4](week-2/pla-lecture-4.md)
