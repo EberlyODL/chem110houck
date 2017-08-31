@@ -13,7 +13,7 @@
 * [Week 2](week-2.md)
   * [PLA Lecture 4](week-2/pla-lecture-4.md)
   * [PLA Lecture 5](week-2/pla-lecture-5.md)
-  * [PLA Lecture 6](week-2/pla-lecture-6.md)
   * [Bohr Model Try it!](week-2/bohr-model-try-it.md)
+  * [PLA Lecture 6](week-2/pla-lecture-6.md)
 * [End of book](end-of-book.md)
 
