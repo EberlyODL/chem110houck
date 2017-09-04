@@ -1,6 +1,6 @@
 # Pre-lecture Assignment 7
 
-<div style="float:right;margin:auto"><ebook-button title="Effective Nuclear Charge" link="https://genchem.science.psu.edu/03-2-effective-nuclear-charge"></ebook-button></div>
+
 
 ## Orbital Energies
 
@@ -10,8 +10,11 @@ We know that an orbital is an address to describe the location of an electron wi
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
+<div style="float:right;margin:auto"><ebook-button title="Effective Nuclear Charge" link="https://genchem.science.psu.edu/03-2-effective-nuclear-charge"></ebook-button></div>
+
 
 ## Effective Nuclear Charge
+<div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 [ciscode|rev=1|tool=elmsmedia|item=3288|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -22,6 +25,7 @@ The fact that energy level splitting occurs in a multi-electron atom is rooted i
 <div style="float:right;margin:auto"><ebook-button title="Electron Spin" link="https://genchem.science.psu.edu/03-1-electron-spin"></ebook-button></div>
 
 ## Electron Spin
+<div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3289|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
