@@ -16,7 +16,7 @@ We know that an orbital is an address to describe the location of an electron wi
 ## Effective Nuclear Charge
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
-[ciscode|rev=1|tool=elmsmedia|item=3288|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+[ciscode|rev=1|tool=elmsmedia|item=3351|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 The fact that energy level splitting occurs in a multi-electron atom is rooted in Coulomb's Law and the concepts of shielding and penetration.  Imagine a light bulb as a nucleus and a lampshade as a shell (i.e. n = 1).  If you place a shell over the nucleus, an electron on the outside of the shell will feel less attraction from the nucleus just as an observer sees less light from the bulb due to the shade.  Effective nuclear charge is the idea that an electron will feel less of the nuclear charge if it is shielded by other electrons. 
 
