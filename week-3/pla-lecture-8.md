@@ -77,3 +77,7 @@ Hund's rule violations also result in higher energy electron configurations and 
 <div style="float:none;max-width:700px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3339|entity_type=node|render=display_mode|display_mode=image]</div>
 
+
+
+
+## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3319721)
