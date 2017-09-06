@@ -20,6 +20,7 @@
   * [Try it: Quantum Numbers](week-2/quantum-numbers-try-it.md)
 * [Week 3](week-3.md)
   * [PLA Lecture 7](week-3/pla-lecture-7.md)
+  * [Try it: Electron Configuration](week-3/try-it-electron-configuration.md)
   * [PLA Lecture 8](week-3/pla-lecture-8.md)
 * [End of book](end-of-book.md)
 
