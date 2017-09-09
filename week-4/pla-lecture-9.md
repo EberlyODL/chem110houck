@@ -6,7 +6,7 @@
 [ciscode|rev=1|tool=elmsmedia|item=3345|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 
-If you would like a review of ionization energy, the first video reviews what was presented at the end of class on Friday.
+If you would like a review of ionization energy, the first video covers what was presented at the end of class on Friday.  
 
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
