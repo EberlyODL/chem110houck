@@ -24,6 +24,7 @@
   * [PLA Lecture 8](week-3/pla-lecture-8.md)
 * [Week 4](week-4.md)
   * [PLA Lecture 9](week-4/pla-lecture-9.md)
+  * [Try it: Periodic Trends](week-4/try-it-periodic-trends.md)
   * [PLA Lecture 11](week-4/pla-lecture-11.md)
   * [Try it: Determine an Empirical and Molecular Formula](week-4/try-it-determine-an-empirical-and-molecular-formula.md)
 * Week 5
