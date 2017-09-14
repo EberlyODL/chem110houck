@@ -25,5 +25,9 @@
 * [Week 4](week-4.md)
   * [PLA Lecture 9](week-4/pla-lecture-9.md)
   * [PLA Lecture 11](week-4/pla-lecture-11.md)
+* Week 5
+  * PLA Lecture 12
+  * PLA Lecture 13
+  * PLA Lecture 14
 * [End of book](end-of-book.md)
 
