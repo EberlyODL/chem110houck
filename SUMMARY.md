@@ -25,6 +25,7 @@
 * [Week 4](week-4.md)
   * [PLA Lecture 9](week-4/pla-lecture-9.md)
   * [PLA Lecture 11](week-4/pla-lecture-11.md)
+  * [Try it: Determine an Empirical and Molecular Formula](week-4/try-it-determine-an-empirical-and-molecular-formula.md)
 * Week 5
   * PLA Lecture 12
   * PLA Lecture 13
