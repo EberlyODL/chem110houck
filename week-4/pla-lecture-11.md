@@ -68,3 +68,6 @@ Alternatively we could have solved for the mass percentage of hydrogen using the
 
 [ciscode|rev=1|tool=elmsmedia|item=3368|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
+## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3322141)
+
+
