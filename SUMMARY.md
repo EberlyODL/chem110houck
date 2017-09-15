@@ -28,8 +28,8 @@
   * [PLA Lecture 11](week-4/pla-lecture-11.md)
   * [Try it: Determine an Empirical and Molecular Formula](week-4/try-it-determine-an-empirical-and-molecular-formula.md)
 * Week 5
-  * PLA Lecture 12
-  * PLA Lecture 13
-  * PLA Lecture 14
+  * [PLA Lecture 12](pla-lecture-12.md)
+  * [PLA Lecture 13](pla-lecture-13.md)
+  * [PLA Lecture 14](pla-lecture-14.md)
 * [End of book](end-of-book.md)
 
