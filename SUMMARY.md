@@ -31,5 +31,9 @@
   * [PLA Lecture 12](pla-lecture-12.md)
   * [PLA Lecture 13](pla-lecture-13.md)
   * [PLA Lecture 14](pla-lecture-14.md)
+* [Week 6](week-6.md)
+  * PLA Lecture 15
+  * PLA Lecture 16
+  * PLA Lecture 17
 * [End of book](end-of-book.md)
 
