@@ -14,3 +14,9 @@ Resonance involves the redistribution of electrons in lone pairs or double (or t
 Take a look at the video below that introduces some of the basic concepts of resonance. From now on, you will need to consider resonance when determining bond order, bond length, and bonds strength.
 
 [ciscode|rev=1|tool=elmsmedia|item=3414|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+
+## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3325857)
+
+
+
+
