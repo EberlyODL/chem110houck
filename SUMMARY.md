@@ -35,6 +35,7 @@
   * [PLA Lecture 15](week-6/pla-lecture-15.md)
   * [Try it: Practice with Skeletal Structures](week-6/try-it-practice-with-skeletal-structures.md)
   * [PLA Lecture 16](week-6/pla-lecture-16.md)
+  * [Resonance Review](week-6/resonance-review.md)
   * [PLA Lecture 17](week-6/pla-lecture-17.md)
 * [Week 7](week-7.md)
   * [PLA Lecture 18](week-7/pla-lecture-18.md)
