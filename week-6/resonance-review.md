@@ -21,3 +21,4 @@ When two or more resonance structures exist, then it is necessary to evaluate th
 
 If there is no way to differentiate the two structures, they are equivalent.
 
+## [Extra Resonance Practice](https://media.ed.science.psu.edu/sites/media/ed/files/documents/additional_resonance_practicef17.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/additional_resonance_practicef17_key.pdf))
