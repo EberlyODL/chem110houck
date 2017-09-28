@@ -18,6 +18,14 @@ The particular shape or geometry about an atom is based on the number of groups,
 
 There are three key concepts of VSEPR theory.  The first is that electron domains want to be as far from other domains as possible to minimize electron-electron repulsion.  This leads to five basic shapes or electron domain geometries related to the steric number.
 
+| Steric Number | Electron Domain Geometry (EDG) | Bond angles ($$^{\circ}$$) |
+| :--- | :--- | :--- |
+| 2 | Linear | 180 |
+| 3 | Trigonal planar | 120 |
+| 4 | Tetrahedral | 109.5 |
+| 5 | Trigonal bipyramidal | 90, 120 |
+| 6 | Octahedral | 90 |
+
 
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
