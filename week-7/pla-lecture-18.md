@@ -1,6 +1,8 @@
 # Pre-lecture Assignment 18
 
-## Electron Domain Geometry
+## Molecular Polarity
+
+
 
 
 
