@@ -39,6 +39,7 @@
   * [PLA Lecture 17](week-6/pla-lecture-17.md)
 * [Week 7](week-7.md)
   * [PLA Lecture 18](week-7/pla-lecture-18.md)
+  * [Solved: Polar or Nonpolar](week-7/solved-polar-or-nonpolar.md)
   * [PLA Lecture 19](week-7/pla-lecture-19.md)
   * [PLA Lecture 20](week-7/pla-lecture-20.md)
 * [End of book](end-of-book.md)
