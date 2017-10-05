@@ -6,6 +6,8 @@ Now that we are familiar with pi bonds, we can connect back to resonance.
 
 Another way to describe resonance is as _delocalized pi bonding_.  Only electrons in p orbitals can be delocalized in a pi system.
 
+[ciscode|rev=1|tool=elmsmedia|item=3519|entity_type=node|render=display_mode|display_mode=image__right]
+
 Let's use the amide functional group shown below as an example.  The experimental H-N-H bond angle is observed to be 121.6 degrees.  How do we explain this?  What is the geometry?  What is the hybridization of the nitrogen atom?  This is another example of where we need to consider the available theories in order to explain the experimental observation.  
 
 According to VSEPR, we would predict a tetrahedral electron domain geometry and angles less than 109.5 degrees (much like ammonia, $$NH_3$$).  This disagrees with our experiments!
@@ -20,7 +22,7 @@ So, why is this system an exception to several of the above mentioned theories? 
 
 
 
-## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3325858)
+## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3328116)
 
 
 
