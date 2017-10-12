@@ -44,7 +44,7 @@
   * [PLA Lecture 20](week-7/pla-lecture-20.md)
 * [Week 8](week-7/week-8.md)
   * [PLA Lecture 21](week-7/week-8/pla-lecture-21.md)
-  * Try it: Drawing Isomers
+  * [Try it: Drawing Isomers](week-7/week-8/try-it-drawing-isomers.md)
   * [PLA Lecture 23](week-7/week-8/pla-lecture-23.md)
 * [Week 9](week-9.md)
   * PLA Lecture 24
