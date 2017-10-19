@@ -50,6 +50,6 @@
 * [Week 9](week-9.md)
   * [PLA Lecture 24](week-9/pla-lecture-24.md)
   * [PLA Lecture 25](week-9/pla-lecture-25.md)
-  * PLA Lecture 26
+  * [PLA Lecture 26](week-9/pla-lecture-26.md)
 * [End of book](end-of-book.md)
 
