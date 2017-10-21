@@ -51,6 +51,8 @@
   * [PLA Lecture 24](week-9/pla-lecture-24.md)
   * [PLA Lecture 25](week-9/pla-lecture-25.md)
   * [PLA Lecture 26](week-9/pla-lecture-26.md)
+  * [Try it: Heating curve](week-9/try-it-heating-curve.md)
+  * [Solved Problem: Cooling Grapes](week-9/solved-problem-cooling-grapes.md)
 * [Week 10](week-10.md)
   * [PLA Lecture 27](week-10/pla-lecture-27.md)
   * PLA Lecture 28
