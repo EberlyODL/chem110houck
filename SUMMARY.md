@@ -55,7 +55,7 @@
   * [Solved Problem: Cooling Grapes](week-9/solved-problem-cooling-grapes.md)
 * [Week 10](week-10.md)
   * [PLA Lecture 27](week-10/pla-lecture-27.md)
-  * PLA Lecture 28
+  * [PLA Lecture 28](week-10/pla-lecture-28.md)
   * PLA Lecture 29
 * [End of book](end-of-book.md)
 
