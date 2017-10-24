@@ -9,7 +9,7 @@ Dissolution is the technical term for the process of dissolving a solute into a 
 The process of dissolution often involves changes in energy (enthalpy) that can be observed by changes in temperature.  The change in energy comes from the changes in intermolecular forces (IMF) at the atomic level.  Check out the video below for more details! 
 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=3767|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 ## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3332279)
 
