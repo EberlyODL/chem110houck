@@ -13,3 +13,5 @@ Check out the video below for more details and how to read solubility curves.
 
 [ciscode|rev=1|tool=elmsmedia|item=3770|entity_type=node|render=display_mode|display_mode=mediavideo]
 
+## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3332279)
+
