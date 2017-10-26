@@ -56,6 +56,10 @@
 * [Week 10](week-10.md)
   * [PLA Lecture 27](week-10/pla-lecture-27.md)
   * [PLA Lecture 28](week-10/pla-lecture-28.md)
+  * See it again: Vapor Pressure
   * [PLA Lecture 29](week-10/pla-lecture-29.md)
+* [Week 11](week-11.md)
+  * PLA Lecture 30
+  * PLA Lecture 32
 * [End of book](end-of-book.md)
 
