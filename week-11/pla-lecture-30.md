@@ -1,4 +1,4 @@
-<div style="float:right;margin:auto"><ebook-button title="Solubility" link="https://genchem.science.psu.edu/14-3-concentration"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Concentration" link="https://genchem.science.psu.edu/14-3-concentration"></ebook-button></div>
 
 # Pre-lecture Assignment 30
 
