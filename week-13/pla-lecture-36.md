@@ -30,8 +30,8 @@ The bottom part of Table 1 describes substances that are insoluble, along with a
 | $$Cl^-, Br^-, \text{and } I^-$$ | $$Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}$$ |  
 | $$SO_4^{2-}$$ | $$Ca^{2+}, Sr^{2+}, Ba^{2+}, Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}$$ |  
 | **The following form **_**insoluble**_** salts** | **Exceptions** \|  
-| $$CO_3^{2-} \text{and }PO_4^{3-}$$ | $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+$$  |  
-| $$OH^- \text{and }S^{2-}$$  | $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+, Ca^{2+}, Sr^{2+}, \text{and }Ba^{2+}$$  |
+| $$CO_3^{2-} \text{and }PO_4^{3-}$$ | $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+, Ca^{2+}, Sr^{2+}, \text{and }Ba^{2+}$$  |  
+| $$OH^- \text{and }S^{2-}$$  | $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+$$  |
 
 
 
