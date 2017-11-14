@@ -69,6 +69,7 @@
   * [PLA Lecture 35](week-12/pla-lecture-35.md)
 * [Week 13](week-13.md)
   * [PLA Lecture 36](week-13/pla-lecture-36.md)
+  * [Solved Problem: Net Ionic Equation](week-13/solved-problem-net-ionic-equation.md)
   * [PLA Lecture 37](week-13/pla-lecture-37.md)
   * [PLA Lecture 38](week-13/pla-lecture-38.md)
 * [Week 14](week-14.md)
