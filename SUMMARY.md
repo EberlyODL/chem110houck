@@ -67,6 +67,7 @@
   * [PLA Lecture 33](week-12/pla-lecture-33.md)
   * [PLA Lecture 34](week-12/pla-lecture-34.md)
   * [PLA Lecture 35](week-12/pla-lecture-35.md)
+  * [Solved Problem: Partial Pressure and Ideal Gas Law](week-12/solved-problem-partial-pressure-and-ideal-gas-law.md)
 * [Week 13](week-13.md)
   * [PLA Lecture 36](week-13/pla-lecture-36.md)
   * [Solved Problem: Net Ionic Equation](week-13/solved-problem-net-ionic-equation.md)
