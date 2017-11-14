@@ -25,7 +25,7 @@ The bottom part of Table 1 describes substances that are insoluble, along with a
   
 | **The following form **_**soluble**_** salts** | **Exceptions** |  
 | :--- | :--- |  
-| $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+, Ca^{2+}, Sr^{2+}, \text{or }Ba^{2+}$$ | No exceptions |  
+| $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+$$ | No exceptions |  
 | $$NO_3^-, ClO_4^-, \text{and } CH_3COO^-$$ | No exceptions|  
 | $$Cl^-, Br^-, \text{and } I^-$$ | $$Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}$$ |  
 | $$SO_4^{2-}$$ | $$Ca^{2+}, Sr^{2+}, Ba^{2+}, Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}$$ |  
