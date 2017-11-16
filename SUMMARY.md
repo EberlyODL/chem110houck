@@ -62,7 +62,7 @@
   * [PLA Lecture 30](week-11/pla-lecture-30.md)
   * [PLA Lecture 32](week-11/pla-lecture-32.md)
   * [Try it: Concentration Conversions](week-11/try-it-concentration-conversions.md)
-  * Try it: Dilution
+  * [Try it: Dilution](week-11/try-it-dilution.md)
 * [Week 12](week-12.md)
   * [PLA Lecture 33](week-12/pla-lecture-33.md)
   * [PLA Lecture 34](week-12/pla-lecture-34.md)
