@@ -73,6 +73,7 @@
   * [Solved Problem: Net Ionic Equation](week-13/solved-problem-net-ionic-equation.md)
   * [PLA Lecture 37](week-13/pla-lecture-37.md)
   * [PLA Lecture 38](week-13/pla-lecture-38.md)
+  * Try it: Reaction Calculations
 * [Week 14](week-14.md)
   * [PLA Lecture 39](week-14/pla-lecture-39.md)
   * [PLA Lecture 41](week-14/pla-lecture-41.md)
