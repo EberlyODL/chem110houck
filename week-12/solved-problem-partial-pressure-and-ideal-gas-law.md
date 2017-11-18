@@ -1,4 +1,4 @@
-# Solved Problem
+# Solved Problem: Partial Pressure and Ideal Gas Law
 
 
 3.0 L of He at 5.0 atm is mixed together with 4.5 L of Ne at 2.0 atm at aconstant T of 25°C in a 10 L vessel. What is the total pressure in the 10 Lvessel?
