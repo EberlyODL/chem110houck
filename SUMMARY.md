@@ -62,7 +62,7 @@
   * [PLA Lecture 30](week-11/pla-lecture-30.md)
   * [PLA Lecture 32](week-11/pla-lecture-32.md)
   * [Try it: Concentration Conversions](week-11/try-it-concentration-conversions.md)
-  * Try it: Dilution
+  * [Try it: Dilution](week-11/try-it-dilution.md)
 * [Week 12](week-12.md)
   * [PLA Lecture 33](week-12/pla-lecture-33.md)
   * [PLA Lecture 34](week-12/pla-lecture-34.md)
@@ -73,5 +73,13 @@
   * [Solved Problem: Net Ionic Equation](week-13/solved-problem-net-ionic-equation.md)
   * [PLA Lecture 37](week-13/pla-lecture-37.md)
   * [PLA Lecture 38](week-13/pla-lecture-38.md)
+  * [Try it: Reaction Calculations](week-13/try-it-reaction-calculations.md)
+* [Week 14](week-14.md)
+  * [PLA Lecture 39](week-14/pla-lecture-39.md)
+  * [PLA Lecture 41](week-14/pla-lecture-41.md)
+* [Week 15](week-15.md)
+  * [PLA Lecture 42](week-15/pla-lecture-42.md)
+  * [PLA Lecture 43](week-15/pla-lecture-43.md)
+  * [PLA Lecture 44](week-15/pla-lecture-44.md)
 * [End of book](end-of-book.md)
 
