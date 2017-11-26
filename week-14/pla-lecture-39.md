@@ -13,7 +13,7 @@ Thermochemistry is the study of energy changes that take place during chemical p
 An example of a thermochemical equation is the combustion of hydrogen to produce water. A thermochemical equation includes the balanced chemical equation along with the enthalpy change. This particular process is exothermic, releasing 483.6 kJ of heat when two moles of $$H_2$$ react with one mole of $$O_2$$. The bonds that are formed during the reaction (the four O-H bonds) are stronger than the bonds that are broken during the reaction (two H-H bonds and one O=O bond), which is partly because the O-H bonds have a polar component, and partly because charge-charge repulsion in O=O is relieved. Thus, more energy is released through the formation of bonds than is absorbed during the breaking of bonds, leading to a net decrease in energy. The potential energy that is lost is converted to heat and lost to the surroundings. (See this explained in the video!)
 
 
-## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3340353)
+## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3343451)
 
 
 
