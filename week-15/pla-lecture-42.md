@@ -2,6 +2,11 @@
 
 # Heat of formation
 
+We will also use enthalpies of formation ($$\Delta H ^\circ _f$$) to calculate heat of reaction values. The enthalpy of formation (also called heat of formation) for a compound is the heat that is given off (or absorbed) when **elements** combine to form **one mole** of a compound. These values allow us to compare energy changes on a common scale using elements in their most stable form as a reference. Enthalpies of formation ($$\Delta H ^\circ _f$$) are measured at standard state (P = 1 atm and T = 25°C) with each reactant in its most stable form under those conditions. The “°” denotes a value at standard state. Note that the temperature associated with standard state is different from the temperature associated STP that we introduced when we discussed gases. 
+
+Shown below is an example in which carbon (as graphite, carbon’s most stable elemental form at standard state) reacts with diatomic oxygen gas (oxygen’s most stable elemental form at standard state) to form one mole of carbon dioxide gas. The value of $$\Delta H ^\circ _{rxn}$$ for this reaction is -393.5 kJ. Since this reaction produces one mole of carbon dioxide from its component elements in their most stable states, $$\Delta H ^\circ _{rxn}$$ for this reaction equals $$\Delta H ^\circ _{f}$$ for $$CO_2$$ (g).
+
+It is worth noting that ΔH°f for any element in its most stable state is equal to zero because the reactants and products would be the same any such a reaction. 
 
 ## Standard States for Elements
 
