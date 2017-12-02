@@ -6,6 +6,7 @@ We will also use enthalpies of formation ($$\Delta H ^\circ _f$$) to calculate h
 
 Shown below is an example in which carbon (as graphite, carbon’s most stable elemental form at standard state) reacts with diatomic oxygen gas (oxygen’s most stable elemental form at standard state) to form one mole of carbon dioxide gas. The value of $$\Delta H ^\circ _{rxn}$$ for this reaction is -393.5 kJ. Since this reaction produces one mole of carbon dioxide from its component elements in their most stable states, $$\Delta H ^\circ _{rxn}$$ for this reaction equals $$\Delta H ^\circ _{f}$$ for $$CO_2$$ (g).
 
+$$C_{(graphite)} + O_{2(g)} \longrightarrow CO_{2(g)} \Delta H ^\circ _{rxn} = -393.5 \text{ kJ} $$
 It is worth noting that ΔH°f for any element in its most stable state is equal to zero because the reactants and products would be the same any such a reaction. 
 
 ## Standard States for Elements
