@@ -76,6 +76,7 @@
   * [Try it: Reaction Calculations](week-13/try-it-reaction-calculations.md)
 * [Week 14](week-14.md)
   * [PLA Lecture 39](week-14/pla-lecture-39.md)
+  * [Try it: Reaction Enthalpies](week-14/try-it-reaction-enthalpies.md)
   * [PLA Lecture 41](week-14/pla-lecture-41.md)
   * [Try it: Calorimetry](week-14/try-it-calorimetry.md)
 * [Week 15](week-15.md)
