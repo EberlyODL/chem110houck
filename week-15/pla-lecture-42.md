@@ -8,6 +8,8 @@ In the upcoming lecture we will introduce two strategies for calculating heats o
 
 Hess’s Law works because enthalpy is a state function and is thus not path dependent. In this example it doesn’t matter which path is taken when A is converted to C, the enthalpy change will always be the same, regardless of whether B is formed as an intermediate during the process. 
 
+[ciscode|rev=1|tool=elmsmedia|item=4148|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 ## Heat of formation
 
 We will also use enthalpies of formation ($$\Delta H ^\circ _f$$) to calculate heat of reaction values. The enthalpy of formation (also called heat of formation) for a compound is the heat that is given off (or absorbed) when **elements** combine to form **one mole** of a compound. These values allow us to compare energy changes on a common scale using elements in their most stable form as a reference. Enthalpies of formation ($$\Delta H ^\circ _f$$) are measured at standard state (P = 1 atm and T = 25°C) with each reactant in its most stable form under those conditions. The “°” denotes a value at standard state. Note that the temperature associated with standard state is different from the temperature associated STP that we introduced when we discussed gases. 
