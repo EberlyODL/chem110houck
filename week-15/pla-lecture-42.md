@@ -26,6 +26,8 @@ In order to use $$\Delta H ^\circ _f$$ values and in order to recognize when $$\
 
 It is worth noting that for carbon the most stable form is graphite (versus diamond). Graphite should be familiar, as it is the substance used to make pencil lead. 
 
+[ciscode|rev=1|tool=elmsmedia|item=4150|entity_type=node|render=display_mode|display_mode=h5p]
+
 ## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3348719)
 
 
