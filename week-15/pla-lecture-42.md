@@ -8,6 +8,8 @@ In the upcoming lecture we will introduce two strategies for calculating heats o
 
 Hess’s Law works because enthalpy is a state function and is thus not path dependent. In this example it doesn’t matter which path is taken when A is converted to C, the enthalpy change will always be the same, regardless of whether B is formed as an intermediate during the process. 
 
+[ciscode|rev=1|tool=elmsmedia|item=4148|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 ## Heat of formation
 
 We will also use enthalpies of formation ($$\Delta H ^\circ _f$$) to calculate heat of reaction values. The enthalpy of formation (also called heat of formation) for a compound is the heat that is given off (or absorbed) when **elements** combine to form **one mole** of a compound. These values allow us to compare energy changes on a common scale using elements in their most stable form as a reference. Enthalpies of formation ($$\Delta H ^\circ _f$$) are measured at standard state (P = 1 atm and T = 25°C) with each reactant in its most stable form under those conditions. The “°” denotes a value at standard state. Note that the temperature associated with standard state is different from the temperature associated STP that we introduced when we discussed gases. 
@@ -23,6 +25,8 @@ It is worth noting that ΔH°f for any element in its most stable state is equal
 In order to use $$\Delta H ^\circ _f$$ values and in order to recognize when $$\Delta H ^\circ _f$$ = $$\Delta H ^\circ _{rxn}$$ we need to be able to determine whether an element is in its most stable form at standard state. All metals and metalloids are solids at standard state except for mercury (Hg), which is a liquid. Noble gases (group 8) are all monatomic gases. Several elements exist as diatomic species at standard state, these include group 7 ($$F_2, Cl_2, Br_2, \text{and }I_2$$) plus hydrogen ($$H_2$$), nitrogen ($$N_2$$), and oxygen ($$O_2$$). All of these diatomic species are gases at standard state except for $$Br_2$$ (liquid) and $$I_2$$ (solid). All other nonmetals are solids. 
 
 It is worth noting that for carbon the most stable form is graphite (versus diamond). Graphite should be familiar, as it is the substance used to make pencil lead. 
+
+[ciscode|rev=1|tool=elmsmedia|item=4150|entity_type=node|render=display_mode|display_mode=h5p]
 
 ## [Click here to return to Canvas to answer a few questions!](https://psu.instructure.com/courses/1881362/quizzes/3348719)
 
