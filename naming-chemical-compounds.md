@@ -113,7 +113,7 @@ Transition metals and a handful of main group metals have several possible charg
 | :--- | :--- | :--- | :--- |
 | NaCl | Na$$^+$$, sodium ion| Cl$$^-$$, chloride ion | sodium chloride |
 | CaCl$$_2$$ | Ca$$^{2+}$$, calcium ion| Cl$$^-$$, chloride ion | calcium chloride |
-| Cu(ClO$$_4$$)$$-2$$ | Cu$$^{2+}$$, copper(II) ion| ClO$$_4^-$$, perchlorate ion | copper(II) perchlorate |
+| Cu(ClO$$_4$$)$$_2$$ | Cu$$^{2+}$$, copper(II) ion| ClO$$_4^-$$, perchlorate ion | copper(II) perchlorate |
 | Al$$_2$$(SO$$_4$$)$$_3$$ | Al$$^{3+}$$, aluminum ion| SO$$_4^-$$ sulfate ion | aluminum sulfate |
 
 
