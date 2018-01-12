@@ -4,9 +4,9 @@
 
 For a review of the patterns to watch for, check out the video below.  The four basic patterns are:
 > 1) Lone pairs adjacent to a double (or triple) bond
-2) Lone pairs or double bonds adjacent to positive charge
-3) Double (or triple) bond between two atoms of differing electronegativities
-4) Alternating double-single bonds in a closed ring (i.e. benzene)
+> 2) Lone pairs or double bonds adjacent to positive charge
+> 3) Double (or triple) bond between two atoms of differing electronegativities
+> 4) Alternating double-single bonds in a closed ring (i.e. benzene)
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
